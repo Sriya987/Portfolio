@@ -1,0 +1,155 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+.typewriter-text{
+  font-size: 2.6em;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+body{
+  background-image: url('Assets/bg3.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+/* nav */
+
+.nav-item:hover {
+  background-color: #64686c;
+  color: white !important;
+  box-shadow: 0 0 25px rgba(223, 227, 232, 0.936);
+}
+ 
+.nav-item {
+  margin: 0 10px;
+  padding: 15px 20px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+.nav-logo {
+  height: 60px;
+  width: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(61, 63, 66, 0.5);
+}
+Nav.Link{
+  padding-right: 5px;
+}
+/* skills */
+.skill{
+  height: 150px;
+  width: 150px;
+  
+}
+.carditem{
+  margin: 20px;
+  width: 250px;
+  height: 250px;
+}
+
+.cert-card-view{
+  width: 350px;
+  height: 300px; 
+  padding: 20px;
+  margin: 20px;
+}
+/* cert*/
+
+.skill1 {
+  padding: 70px 0 50px 0;
+  position: relative;
+}
+.skill-bx {
+  background: #151515;
+  border-radius: 64px;
+  text-align: center;
+  padding: 60px 50px;
+  margin-top: -60px;
+  width:100%;
+  opacity: 0.8;
+}
+.skill1 h2 {
+    font-size: 45px;
+    font-weight: 700;
+}
+.skill1 p {
+    color: #B8B8B8;
+    font-size: 18px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    margin: 14px 0 75px 0;
+}
+.skill-slider {
+  width: 80%;
+  margin: 0 auto;
+  position: relative;
+}
+.skill-slider .item img {
+  width: 250px;
+  height:200px;
+  margin: 0 auto 15px auto;
+}
+.background-image-left {
+  top: 28%;
+  position: absolute;
+  bottom: 0;
+  width: 40%;
+  z-index: -4;
+}
+.cert{
+  color: white;
+}
+.card-body{
+  align-items: center;
+}
+.carditem:hover{
+  box-shadow: 3px 0 5px 6px rgb(195, 186, 186);
+}
+.contact-item{
+  width: 100px;
+  height: 100px;
+  margin:10px;
+  margin-top: 50px;
+}
+
+.contact{
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.item h5{
+  color: white;
+}
+.lc,.hr,.ml{
+  border-radius: 20px;
+}
