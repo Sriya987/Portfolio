@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Nav, Navbar, NavbarBrand } from "react-bootstrap";
 import home from "../Assets/home.jpeg";
-
+import {Link} from 'react-router-dom';
 export default function NavBar() {
   return (
     <Navbar expand='md' className="py-3 custom-navbar" >
@@ -19,25 +19,25 @@ export default function NavBar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto p-3">
             <div style={{display:'flex',alignItems:'center'}}>
-            <Nav.Link href="/Portfolio" className="nav-item">
+            <Link to="/Portfolio" className="nav-item">
               <h5>Home</h5>
-            </Nav.Link>
-            <Nav.Link href="/about" className="nav-item">
+            </Link>
+            <Link to="/about" className="nav-item">
               <h5>About</h5>
-            </Nav.Link>
-            <Nav.Link href="/skills" className="nav-item">
+            </Link>
+            <Link to="/skills" className="nav-item">
               <h5>Skills</h5>
-            </Nav.Link>
+            </Link>
             
-            <Nav.Link href="/cert" className="nav-item">
+            <Link to="/cert" className="nav-item">
               <h5>Certifications</h5>
-            </Nav.Link>
-            <Nav.Link href="/resume" className="nav-item">
+            </Link>
+            <Link to="/resume" className="nav-item">
               <h5>Resume</h5>
-            </Nav.Link>
-            <Nav.Link href="/contact" className="nav-item">
+            </Link>
+            <Link to="/contact" className="nav-item">
               <h5>Connect</h5>
-            </Nav.Link></div>
+            </Link></div>
           </Nav>
         </Navbar.Collapse>
       </Container>
