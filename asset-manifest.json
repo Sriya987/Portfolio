@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.bb01c325.css",
-    "main.js": "/Portfolio/static/js/main.873eb364.js",
+    "main.js": "/Portfolio/static/js/main.547e1154.js",
     "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
     "static/media/HackerrankPython.jpg": "/Portfolio/static/media/HackerrankPython.61f1bb5f7533a185899f.jpg",
     "static/media/Cosc.jpg": "/Portfolio/static/media/Cosc.e847c19f80e851a97514.jpg",
@@ -26,11 +26,11 @@
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
     "main.bb01c325.css.map": "/Portfolio/static/css/main.bb01c325.css.map",
-    "main.873eb364.js.map": "/Portfolio/static/js/main.873eb364.js.map",
+    "main.547e1154.js.map": "/Portfolio/static/js/main.547e1154.js.map",
     "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb01c325.css",
-    "static/js/main.873eb364.js"
+    "static/js/main.547e1154.js"
   ]
 }
