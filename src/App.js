@@ -14,7 +14,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Portfolio">
         <div className="App">
           <NavBar /><hr/>
           <Routes>
