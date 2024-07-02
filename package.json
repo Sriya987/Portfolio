@@ -18,7 +18,7 @@
     "typewriter-effect": "^2.21.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Sriya987.github.io/MyPortfolio",
+  "homepage": "https://sriya987.github.io/Portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

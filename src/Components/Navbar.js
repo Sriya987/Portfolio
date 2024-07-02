@@ -19,7 +19,7 @@ export default function NavBar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto p-3">
             <div style={{display:'flex',alignItems:'center'}}>
-            <Nav.Link href="/MyPortfolio" className="nav-item">
+            <Nav.Link href="/Portfolio" className="nav-item">
               <h5>Home</h5>
             </Nav.Link>
             <Nav.Link href="/about" className="nav-item">
