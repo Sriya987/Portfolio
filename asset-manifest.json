@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bb01c325.css",
+    "main.js": "/Portfolio/static/js/main.28bbc9b7.js",
+    "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
+    "static/media/HackerrankPython.jpg": "/Portfolio/static/media/HackerrankPython.61f1bb5f7533a185899f.jpg",
+    "static/media/Cosc.jpg": "/Portfolio/static/media/Cosc.e847c19f80e851a97514.jpg",
+    "static/media/CourseraReact.jpg": "/Portfolio/static/media/CourseraReact.9a4a8fcf8a0d264fa9f8.jpg",
+    "static/media/Gccp.jpg": "/Portfolio/static/media/Gccp.5e3c24a8a7079954b21d.jpg",
+    "static/media/UdemyGit.jpg": "/Portfolio/static/media/UdemyGit.163c58536a321ec543fe.jpg",
+    "static/media/HackerrankSoftwareEngineerIntern.jpg": "/Portfolio/static/media/HackerrankSoftwareEngineerIntern.392f9c24058bf70de0a1.jpg",
+    "static/media/PythonInfy.jpg": "/Portfolio/static/media/PythonInfy.bd9d9a8e3d4a4029eb4c.jpg",
+    "static/media/BharatIntern.jpg": "/Portfolio/static/media/BharatIntern.1b918571e146c30b40b0.jpg",
+    "static/media/JavaInfy.jpg": "/Portfolio/static/media/JavaInfy.3f701f489a97e92bf099.jpg",
+    "static/media/Forage.jpg": "/Portfolio/static/media/Forage.25f43bf245af75a8a752.jpg",
+    "static/media/me.jpg": "/Portfolio/static/media/me.c9771f16b73ca44ca882.jpg",
+    "static/media/Resume-Hackerrank.pdf": "/Portfolio/static/media/Resume-Hackerrank.6031f7a80799bd8dd026.pdf",
+    "static/media/python.jpeg": "/Portfolio/static/media/python.8aaa10b907233e240e1f.jpeg",
+    "static/media/insta.jpeg": "/Portfolio/static/media/insta.500180f1c3986859bb1b.jpeg",
+    "static/media/bg3.jpeg": "/Portfolio/static/media/bg3.85dfa123140250281b78.jpeg",
+    "static/media/react.jpeg": "/Portfolio/static/media/react.c4353c672f81ac3e4198.jpeg",
+    "static/media/revicons.eot": "/Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/java.jpeg": "/Portfolio/static/media/java.502951c3147a56db582f.jpeg",
+    "static/media/github.jpeg": "/Portfolio/static/media/github.376ccd10a9eb026f357c.jpeg",
+    "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Portfolio/index.html",
+    "main.bb01c325.css.map": "/Portfolio/static/css/main.bb01c325.css.map",
+    "main.28bbc9b7.js.map": "/Portfolio/static/js/main.28bbc9b7.js.map",
+    "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb01c325.css",
+    "static/js/main.28bbc9b7.js"
+  ]
+}
