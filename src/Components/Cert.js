@@ -2,7 +2,7 @@ import { Container } from 'react-bootstrap';
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
 import PythonInfy from "../Assets/PythonInfy.jpg";
-import JavaInfy from "../Assets/JavaInfy.jpg";
+import infyintern from "../Assets/infosys4.0.png";
 import Cosc from "../Assets/Cosc.jpg";
 import 'react-multi-carousel/lib/styles.css';
 import HackerrankPython from "../Assets/HackerrankPython.jpg";
@@ -52,19 +52,23 @@ export default function Cert(){
           <img src={HackerrankSoftwareEngineerIntern} alt="hackerrank" />
           <h5>Hackerrank</h5>
         </div>
-        <div className="item">
+        {/* <div className="item">
           <img src={Gccp} alt="gccp" />
           <h5>GCCP Workshop</h5>
-        </div>
+        </div> */}
         <div className="item">
           <img src={CourseraReact} alt="react" />
           <h5>Coursera</h5>
         </div>
-        <div className="item">
+        {/* <div className="item">
           <img src={Forage} alt="Forage" />
           <h5>Forage</h5>
         </div>
-        
+         */}
+         <div className="item">
+          <img src={infyintern} alt="infyintern" />
+          <h5>Infosys Springboard Internship</h5>
+        </div>
         <div className="item">
           <img src={BharatIntern} alt="bharatintern" />
           <h5>Bharat Intern</h5>
@@ -77,14 +81,12 @@ export default function Cert(){
           <img src={Cosc} alt="coc" />
           <h5>COSC CBIT</h5>
         </div>
-        <div className="item">
-          <img src={JavaInfy} alt="java" />
-          <h5>InfySpringboard</h5>
-        </div>
+        
         <div className="item">
           <img src={HackerrankPython} alt="python" />
           <h5>Hackerrank</h5>
         </div>
+
                         </Carousel>
                     </div>
                     </Col>

@@ -4,7 +4,7 @@ import linkedin from '../Assets/linkedin.jpeg'
 import insta from '../Assets/insta.jpeg';
 import leetcode from '../Assets/leetcode.jpeg';
 import hackerrank from '../Assets/hackerrank.jpeg';
-import github from '../Assets/github.jpeg';
+import github1 from '../Assets/github.jpeg';
 
 export default function Contact(){
     return(
@@ -23,7 +23,7 @@ export default function Contact(){
                 </Col>
                 <Col ><a href="https://www.hackerrank.com/profile/sriyakotagiriwar"><img className="contact-item hr" src={hackerrank} alt='hackerrank' /></a>
                 </Col>
-                <Col ><a href="https://github.com/Sriya987/"><img className="contact-item" src={github} alt='github' style={{borderRadius:'50px',width:'110px'}}/></a>
+                <Col ><a href="https://github.com/Sriya987/"><img className="contact-item" src={github1} alt='github' style={{borderRadius:'50px',width:'110px'}}/></a>
                 </Col>
             </Row></div>
         </Container>
