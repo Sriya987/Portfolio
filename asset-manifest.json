@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.b1c9b92c.css",
-    "main.js": "/Portfolio/static/js/main.20c510c3.js",
+    "main.js": "/Portfolio/static/js/main.5fae17d4.js",
     "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
     "static/media/HackerrankPython.jpg": "/Portfolio/static/media/HackerrankPython.61f1bb5f7533a185899f.jpg",
     "static/media/Cosc.jpg": "/Portfolio/static/media/Cosc.e847c19f80e851a97514.jpg",
@@ -11,8 +11,8 @@
     "static/media/HackerrankSoftwareEngineerIntern.jpg": "/Portfolio/static/media/HackerrankSoftwareEngineerIntern.392f9c24058bf70de0a1.jpg",
     "static/media/PythonInfy.jpg": "/Portfolio/static/media/PythonInfy.bd9d9a8e3d4a4029eb4c.jpg",
     "static/media/BharatIntern.jpg": "/Portfolio/static/media/BharatIntern.1b918571e146c30b40b0.jpg",
-    "static/media/JavaInfy.jpg": "/Portfolio/static/media/JavaInfy.3f701f489a97e92bf099.jpg",
     "static/media/Forage.jpg": "/Portfolio/static/media/Forage.25f43bf245af75a8a752.jpg",
+    "static/media/infosys4.0.png": "/Portfolio/static/media/infosys4.0.556c8e1b55e9b8fda441.png",
     "static/media/me1.jpg": "/Portfolio/static/media/me1.20f5b539a9b6764ec9c2.jpg",
     "static/media/Resume-Hackerrank.pdf": "/Portfolio/static/media/Resume-Hackerrank.6031f7a80799bd8dd026.pdf",
     "static/media/python.jpeg": "/Portfolio/static/media/python.8aaa10b907233e240e1f.jpeg",
@@ -26,11 +26,11 @@
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
     "main.b1c9b92c.css.map": "/Portfolio/static/css/main.b1c9b92c.css.map",
-    "main.20c510c3.js.map": "/Portfolio/static/js/main.20c510c3.js.map",
+    "main.5fae17d4.js.map": "/Portfolio/static/js/main.5fae17d4.js.map",
     "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1c9b92c.css",
-    "static/js/main.20c510c3.js"
+    "static/js/main.5fae17d4.js"
   ]
 }
