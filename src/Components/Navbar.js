@@ -18,7 +18,7 @@ export default function NavBar() {
         </Navbar.Toggle>
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto p-3">
-            <div style={{display:'flex',alignItems:'center'}}>
+           
             <Link to="/Portfolio" className="nav-item">
               <h4>Home</h4>
             </Link>
@@ -37,7 +37,7 @@ export default function NavBar() {
             </Link>
             <Link to="/contact" className="nav-item">
               <h4>Connect</h4>
-            </Link></div>
+            </Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
