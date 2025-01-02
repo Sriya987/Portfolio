@@ -1,9 +1,9 @@
 import React from 'react';
-import resumeHackerrank from './Resume-Hackerrank.pdf';
+import MyResume from './MyResume.pdf';
 export default function Resume(){
     return(
         <iframe 
-      src={resumeHackerrank}
+      src={MyResume}
       width="80%"
       height="600px"
       title="PDF Viewer"

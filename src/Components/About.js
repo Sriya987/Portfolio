@@ -29,7 +29,7 @@ export default function About() {
                     <br /> This is{" "}
                     <span className="purple">Sriya Kotagiriwar.</span>
                     <br/>
-                    <br />I am a driven second-year Computer Science and
+                    <br />I am a driven third-year Computer Science and
                     Engineering student at Chaitanya Bharathi Institute of
                     Technology. My passion for technology and innovation fuels
                     my journey in this dynamic field, where I continually

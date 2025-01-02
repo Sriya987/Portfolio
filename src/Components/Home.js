@@ -25,7 +25,7 @@ export default function Home() {
       options={{ 
         strings: [
             "A Python Developer",
-          "A Software Developer",
+          "A Passionate Learner",
           "A Full Stack Web Developer",
         ],
         autoStart: true,
