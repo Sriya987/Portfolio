@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b1c9b92c.css",
-    "main.js": "/Portfolio/static/js/main.f9934b80.js",
+    "main.css": "/Portfolio/static/css/main.aefa8b19.css",
+    "main.js": "/Portfolio/static/js/main.fc266aed.js",
     "static/js/453.41811d64.chunk.js": "/Portfolio/static/js/453.41811d64.chunk.js",
     "static/media/HackerrankPython.jpg": "/Portfolio/static/media/HackerrankPython.61f1bb5f7533a185899f.jpg",
     "static/media/Cosc.jpg": "/Portfolio/static/media/Cosc.e847c19f80e851a97514.jpg",
@@ -25,12 +25,12 @@
     "static/media/github.jpeg": "/Portfolio/static/media/github.376ccd10a9eb026f357c.jpeg",
     "static/media/revicons.woff": "/Portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/Portfolio/index.html",
-    "main.b1c9b92c.css.map": "/Portfolio/static/css/main.b1c9b92c.css.map",
-    "main.f9934b80.js.map": "/Portfolio/static/js/main.f9934b80.js.map",
+    "main.aefa8b19.css.map": "/Portfolio/static/css/main.aefa8b19.css.map",
+    "main.fc266aed.js.map": "/Portfolio/static/js/main.fc266aed.js.map",
     "453.41811d64.chunk.js.map": "/Portfolio/static/js/453.41811d64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b1c9b92c.css",
-    "static/js/main.f9934b80.js"
+    "static/css/main.aefa8b19.css",
+    "static/js/main.fc266aed.js"
   ]
 }
