@@ -8,12 +8,12 @@ import js from '../Assets/js.jpeg';
 import java from '../Assets/java.jpeg';
 import bs from '../Assets/bs.jpeg';
 import react from '../Assets/react.jpeg';
-import node from '../Assets/node.jpeg';
+import django from '../Assets/django.jpg';
 import sql from '../Assets/sql.jpeg';
 import mongo from '../Assets/mongo.jpeg';
 import ps from '../Assets/ps.jpeg';
 import dsa from '../Assets/dsa.jpeg';
-
+import cn from '../Assets/cn1.jpg';
 
 export default function Skills(){
     return(
@@ -49,8 +49,8 @@ export default function Skills(){
                 <Card.Body><img src={react} alt="react" className="skill" style={{width:'220px'}} /></Card.Body></Card>              
                 </Col>
                 <Col>
-                <Card className="carditem"><Card.Title style={{textAlign:'center' }}>Node.js</Card.Title><hr/>
-                <Card.Body><img src={node} alt="node" className="skill" style={{width:'220px'}} /></Card.Body></Card>              
+                <Card className="carditem"><Card.Title style={{textAlign:'center' }}>Django</Card.Title><hr/>
+                <Card.Body><img src={django} alt="django" className="skill" style={{width:'220px'}} /></Card.Body></Card>              
                 </Col>
             </Row><hr/>
             <Row> <h2>Databases</h2>
@@ -71,6 +71,10 @@ export default function Skills(){
                 <Col>
                 <Card className="carditem"><Card.Title style={{textAlign:'center' }}>DSA</Card.Title><hr/>
                 <Card.Body><img src={dsa} alt="dsa" className="skill"  /></Card.Body></Card>              
+                </Col>
+                <Col>
+                <Card className="carditem"><Card.Title style={{textAlign:'center' }}>Computer Networks</Card.Title><hr/>
+                <Card.Body><img src={cn} alt="cn" className="skill"  /></Card.Body></Card>              
                 </Col>
             </Row>
         </Container>

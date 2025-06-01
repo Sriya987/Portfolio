@@ -1,4 +1,5 @@
 import React from "react";
+import Projects from "./Components/Projects"
 import NavBar from "./Components/Navbar";
 import Home from "./Components/Home";
 import About from "./Components/About";
@@ -23,6 +24,7 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/skills" element={<Skills />} />
             <Route path="/cert" element={<Cert />} />
+            <Route path="/projects" element={<Projects/>}/>
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />          
             </Routes>

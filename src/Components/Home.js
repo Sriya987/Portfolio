@@ -1,7 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import Typewriter from "typewriter-effect";
-import myImg from '../Assets/me1.jpg';
+// import myImg from '../Assets/me1.jpg';
+import myImg from '../Assets/mine.jpg';
 import About from "./About";
 export default function Home() {
   return (
@@ -36,7 +37,7 @@ export default function Home() {
             </div>
           </Col>
           <Col md={4} className="myAvtar" >
-              <img src={myImg}  alt="avatar" style={{height:'400px',width:'400px'}}/>
+              <img src={myImg}  alt="avatar" style={{height:'400px',width:'400px',borderRadius:'50px',marginTop:'50px'}}/>
           </Col>
         </Row>
       </Container>

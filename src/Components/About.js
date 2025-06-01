@@ -26,27 +26,24 @@ export default function About() {
                 <blockquote className="blockquote mb-0">
                   <p style={{ textAlign: "justify" }}>
                     Hello Everyone!!
-                    <br /> This is{" "}
-                    <span className="purple">Sriya Kotagiriwar.</span>
-                    <br/>
-                    <br />I am a driven third-year Computer Science and
-                    Engineering student at Chaitanya Bharathi Institute of
-                    Technology. My passion for technology and innovation fuels
-                    my journey in this dynamic field, where I continually
-                    explore how software shapes our world.<br/><br/> Specializing in the
-                    programming language Python, I possess hands-on experience
-                    in web development and data structures. I have achieved
-                    notable success in developing web applications and an
-                    E-commerce platform, showcasing my ability to turn ideas
-                    into real-world solutions. Committed to lifelong learning
-                    and adept at problem-solving, my goal is to utilize my
-                    skills to create impactful technological solutions that
-                    bridge the gap between innovation and practical
-                    applications.<br/><br/> I aspire to make a meaningful difference in
-                    people's lives through the power of technology. I welcome
-                    opportunities for collaboration and engaging discussions on
-                    all things tech. Feel free to connect with me for a fruitful
-                    exchange of ideas or potential partnerships.
+                    <br />I’m Sriya Kotagiriwar, a third-year Computer Science and Engineering student at CBIT, Hyderabad, aspiring to make a mark in the tech world as a Software Engineer.<br/>
+
+💡 I specialize in Python and full-stack web development (React + Django), with a growing interest in Machine Learning. I’ve built real-world projects like an E-commerce platform with live delivery tracking, a speech-to-speech translation system (GloNaVox), and an automated email sender—each designed with user impact in mind.<br/>
+
+🧑‍🔧 <b>My journey includes:</b><br/>
+
+💼 2 industrial internships, including backend development with Infosys Springboard.<br/>
+
+🌐 A live portfolio website (yes, this one!) showcasing everything I’ve built.<br/>
+
+🏆 Shortlisted for DBS Bank Tech Apprentice Program and awarded Merit Certificates for academic excellence.<br/>
+
+🚀 I actively contribute to the tech community as the Chair of IEEE Computer Society CBIT and mentor juniors through coding clubs. With over 300+ LeetCode problems solved, I’m committed to sharpening my problem-solving skills every day.<br/>
+
+📌 Currently exploring: Streamlit tools, scalable backend systems, and multilingual tech solutions.<br/>
+🤝 Always open to collaborations, internships, and meaningful tech conversations!<br/>
+
+👉 Let’s connect and build something impactful!
                   </p>
                   <div style={{textAlign:'left'}}>
                   Apart from Coding,I love to

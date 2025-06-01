@@ -28,7 +28,9 @@ export default function NavBar() {
             <Link to="/skills" className="nav-item">
               <h4>Skills</h4>
             </Link>
-            
+            <Link to="/projects" className="nav-item">
+              <h4>Projects</h4>
+            </Link>
             <Link to="/cert" className="nav-item">
               <h4>Certifications</h4>
             </Link>
